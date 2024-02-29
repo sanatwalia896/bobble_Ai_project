@@ -1,8 +1,6 @@
 # bobble_Ai_project
 
-This repository is for making a face morphing model using deep learning , opencv and python . 
+This Repo is my work on making a Face morphing Model .
+I will be using pytorch as my deep learning framework and plan on using hugging face pre-trained transformers on making the model of MorphGanFormer .
 
-I plan on making this a robust model which is better than the models available in the market .
-
-
-The time to build this model is 6 months .
+The link to the research paper i am using is https://arxiv.org/abs/2302.09404
