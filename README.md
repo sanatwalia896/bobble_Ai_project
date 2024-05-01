@@ -25,17 +25,21 @@ This project implements a face morphing algorithm using StyleGAN, a generative a
 ## Preprocessed Images
 
 ### Source Image
+
 ![Source Image](images/source_preprocessed.png)
 
 ### Target Image
-![Target Image]([images/target_preprocessed.png](https://github.com/sanatwalia896/bobble_Ai_project/blob/main/image5.webp))
+
+![Target Image](bobble_Ai_project/image5.webp)
 
 ## StyleGAN Latent Space
 
 ### Source Image
+
 ![Source Latent](images/source_latent.png)
 
 ### Target Image
+
 ![Target Latent](images/target_latent.png)
 
 ## Morphed Image
